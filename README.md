@@ -7,7 +7,7 @@
  <p align="center">
  I'm Rakesh Raj a tech enthusiast, passionate about innovation and creating solutions through software development. On the side, I also share knowledge about open source and  more
   </p>
-  <h3 align="center">  Developer </h3>
+  <h3 align="center"> Software Developer </h3>
 </div>
 
 <div>
