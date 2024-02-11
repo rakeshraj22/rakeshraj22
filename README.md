@@ -2,8 +2,7 @@
   Hi There 🙌
 </h1>
 <div>
-<img src="https://media.licdn.com/dms/image/D4D16AQGqLrCOrsgLtg/profile-displaybackgroundimage-shrink_350_1400/0/1703691271537?e=1711584000&v=beta&t=R8idTkSVQoiFYfA-c9jrGvTv37FisOGLapstebNIJiU" alt = "banner"></img>
-
+<img src="https://media.discordapp.net/attachments/1206279579027902516/1206279670866378852/github_banner.png?ex=65db6e7d&is=65c8f97d&hm=eda10bd9046888b9818ead61b526c7446340b6f3efd3c6da8b7a4c397c982c07&=&format=webp&quality=lossless&width=1440&height=360">
  <p align="center">
  I'm Rakesh Raj a tech enthusiast, passionate about innovation and creating solutions through software development. On the side, I also share knowledge about open source and  more
   </p>
