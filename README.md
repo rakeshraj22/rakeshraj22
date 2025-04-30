@@ -2,7 +2,7 @@
   Hi There 🙌
 </h1>
 <div>
-<img src="https://media.discordapp.net/attachments/1206279579027902516/1206279670866378852/github_banner.png?ex=65db6e7d&is=65c8f97d&hm=eda10bd9046888b9818ead61b526c7446340b6f3efd3c6da8b7a4c397c982c07&=&format=webp&quality=lossless&width=1440&height=360">
+
  <p align="center">
  I'm Rakesh Raj a tech enthusiast, passionate about innovation and creating solutions through software development. On the side, I also share knowledge about open source and  more
   </p>
@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++">
+  <img src="https://camo.githubusercontent.com/cf06fedcca8eedc2ebcf41a87c79ae200b8e7f79b65a9c2dcd833d1990bd3290/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465" alt="postamn">
   <br>
     <!--version control-->
       <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
@@ -32,15 +33,13 @@
      <!--version control-->
      <!--tech tools-->
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode">
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="ecliipse">
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="gsheets">
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion">
   
   
   
  <!--community-->
-
+<img src="https://camo.githubusercontent.com/88d3c4cebee89c77892851114d54b231c62bd1ba1d6283a243aceedd3e2c22fb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f486173686e6f64652d3239363246463f7374796c653d666f722d7468652d6261646765266c6f676f3d686173686e6f6465266c6f676f436f6c6f723d7768697465" alt="hashnode">
  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev">
   </p>
